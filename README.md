@@ -56,6 +56,6 @@ https://wannabecontributor.herokuapp.com/
 - メールアドレスを入力してinviteを発行してください
 - 当日作業中の連絡などに利用します
 
-# twitter ハッシュタグ
+### twitter ハッシュタグ
 
 `#wannabecontributor`
